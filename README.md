@@ -10,3 +10,13 @@ How to Run It?
 
 3.Go to your localhost server and see the result.
 
+![](img/1.png)
+
+![](img/2.png)
+
+![](img/3.png)
+
+## License & Copyright
+© Shivam Bhat, YMCA Faridabad
+
+
